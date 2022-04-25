@@ -19,6 +19,8 @@ Soy Desarrollador web Frontend con más de 3 años de experiencia y me encuentro
 
 Fui estudiante de Física en la facultad de ciencias de la Universidad Central de Venezuela hasta que tuve la oportunidad de ganar una beca en [Platzi](https://platzi.com) para estudiar desarrollo web. Esto me permitió conseguir empleo en menos de 1 mes y desde entonces he realizado colaboraciones y proyectos web para terceros.
 
+Estatus laboral: ***Búscando activamente***
+
 ## Pila de tecnologías
 HTML, CSS3, SCSS, Javascript, React.js, Redux, Bootstrap, Foundation, GIMP, Inkscape, Webpack, Amazon SES
 
