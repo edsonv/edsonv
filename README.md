@@ -25,3 +25,8 @@ Fui estudiante de Física en la Universidad Central de Venezuela hasta que tuve 
 - [Responsive Web Design](https://freecodecamp.org/certification/edsonv/responsive-web-design)
 - [Javascript Algorithms and Data Structure](https://freecodecamp.org/certification/edsonv/javascript-algorithms-and-data-structures)
 - [Otros...](https://www.linkedin.com/in/edsonjhairvargas/details/certifications/)
+
+## Redes Sociales
+Puedes contactarme a través de las siguientes redes sociales:
+- [Telegram](http://t.me/edsonv)
+- [LinkedIn](https://linkedin.com/in/edsonjhairvargas)
