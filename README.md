@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **edsonv/edsonv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="text-align: center;">Desarrollador Web / Frontend</h1>
+# Desarrollador Web / Frontend
+
+Soy Desarrollador web Frontend con más de 3 años de experiencia y me encuentro en la búsqueda de proyectos para colaborar usando principalmente el framework React.js.
+Fui estudiante de Física en la Universidad Central de Venezuela hasta que tuve la oportunidad de ganar una beca en [Platzi](https://platzi.com) para estudiar desarrollo web. Esto me permitió conseguir empleo en menos de 1 mes y desde entonces he realizado colaboraciones y proyectos web para terceros.
+
+## Certificaciones
+- [Arquitectura Frontend](https://platzi.com/p/edsonv/ruta/7-arquitecto-frontend-old/diploma/detalle/)
+- [Curso de Programación Orientada a Objetos: POO](https://platzi.com/p/edsonv/course/1474-oop/diploma/detalle/)
+- [Curso de React.js: Manejo Profesional del Estado](https://platzi.com/p/edsonv/course/2597-react-estado/diploma/detalle/)
+- [Responsive Web Design](https://freecodecamp.org/certification/edsonv/responsive-web-design)
+- [Javascript Algorithms and Data Structure](https://freecodecamp.org/certification/edsonv/javascript-algorithms-and-data-structures)
+- [Otros...](https://www.linkedin.com/in/edsonjhairvargas/details/certifications/)
