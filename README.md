@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 -->
 
 # Desarrollador Web / Frontend
+Soy Desarrollador web Frontend con más de 3 años de experiencia y me encuentro en la búsqueda de proyectos y/o empresas para colaborar usando principalmente el framework React.js.
 
-Soy Desarrollador web Frontend con más de 3 años de experiencia y me encuentro en la búsqueda de proyectos para colaborar usando principalmente el framework React.js.
-
-Fui estudiante de Física en la facultad de ciencias de la Universidad Central de Venezuela hasta que tuve la oportunidad de ganar una beca en [Platzi](https://platzi.com) para estudiar desarrollo web. Esto me permitió conseguir empleo en menos de 1 mes y desde entonces he realizado colaboraciones y proyectos web para terceros.
+Fui estudiante de Física en la Facultad de Ciencias de la Universidad Central de Venezuela hasta que tuve la oportunidad de ganar una beca en [Platzi](https://platzi.com) para estudiar desarrollo web. Esto me permitió conseguir mi primer empleo en menos de 1 mes y desde entonces he realizado colaboraciones y proyectos web para terceros.
 
 Estatus laboral: ***Búscando activamente***
 
 ## Pila de tecnologías
-HTML, CSS3, SCSS, Javascript, React.js, Redux, Bootstrap, Foundation, GIMP, Inkscape, Webpack, Amazon SES
+HTML, CSS, Javascript, PUG.js, SCSS, Bootstrap, Foundation, Postcss, React.js, Redux, RSCSS, ITCSS, BEM, styled components, Git, Gitlab, Github, Flexbox, CSSGrids, Webpack, NPM, GIMP, Inkscape, Amazon SES, entre otras.
 
 ## Certificaciones
 - [Arquitectura Frontend](https://platzi.com/p/edsonv/ruta/7-arquitecto-frontend-old/diploma/detalle/)
