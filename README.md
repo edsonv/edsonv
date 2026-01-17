@@ -21,7 +21,7 @@ Fui estudiante de Física en la Facultad de Ciencias de la Universidad Central d
 Estatus laboral: ***Búscando activamente***
 
 ## Pila de tecnologías
-HTML, CSS, Javascript, PUG.js, SCSS, Bootstrap, Foundation, Postcss, React.js, Redux, RSCSS, ITCSS, BEM, styled components, Git, Gitlab, Github, Flexbox, CSSGrids, Webpack, NPM, GIMP, Inkscape, Amazon SES, entre otras.
+React.js, Next.js, Redux, PUG.js, SCSS, Bootstrap, Foundation, Postcss, RSCSS, ITCSS, BEM, styled components, Git, Gitlab, Github, Flexbox, CSSGrids, Webpack, NPM, GIMP, Inkscape, Amazon SES, entre otras.
 
 ## Certificaciones
 - [Arquitectura Frontend](https://platzi.com/p/edsonv/ruta/7-arquitecto-frontend-old/diploma/detalle/)
