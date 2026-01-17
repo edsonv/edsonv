@@ -31,6 +31,9 @@ HTML, CSS, Javascript, PUG.js, SCSS, Bootstrap, Foundation, Postcss, React.js, R
 - [Javascript Algorithms and Data Structure](https://freecodecamp.org/certification/edsonv/javascript-algorithms-and-data-structures)
 - [Otros...](https://www.linkedin.com/in/edsonjhairvargas/details/certifications/)
 
+## Últimos proyectos
+- [Next.js 16 Fullstack Tutorial](https://youtube-nextjs-16-fullstack-tutoria.vercel.app)
+
 ## Redes Sociales
 Puedes contactarme a través de las siguientes redes sociales:
 - [Telegram](http://t.me/edsonv)
