@@ -43,8 +43,3 @@ Estatus laboral: ***Búscando activamente***
 
 ## Últimos proyectos
 - [Next.js 16 Fullstack Tutorial](https://youtube-nextjs-16-fullstack-tutoria.vercel.app)
-
-## Redes Sociales
-Puedes contactarme a través de las siguientes redes sociales:
-- [Telegram](http://t.me/edsonv)
-- [LinkedIn](https://linkedin.com/in/edsonjhairvargas)
