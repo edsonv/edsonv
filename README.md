@@ -24,9 +24,11 @@ Estatus laboral: ***Búscando activamente***
 - HTML5, CSS3, SCSS, Tailwind CSS
 - React.js, Next.js, Redux Toolkit
 - RSCSS, ITCSS, BEM
+ 
 **Data & APIs:**
 - GraphQL, Apollo Client/Server, REST APIs
 - Node.js, Express
+
 **Herramientas:**
 - Git, Gitlab, Github, Webpack
 - Docker
