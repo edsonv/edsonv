@@ -20,16 +20,16 @@ Estatus laboral: ***Búscando activamente***
 
 ## Pila de tecnologías
 **Frontend:**
-    • TypeScript, JavaScript (ES6+)
-    • HTML5, CSS3, SCSS, Tailwind CSS
-    • React.js, Next.js, Redux Toolkit
-    • RSCSS, ITCSS, BEM
+- TypeScript, JavaScript (ES6+)
+- HTML5, CSS3, SCSS, Tailwind CSS
+- React.js, Next.js, Redux Toolkit
+- RSCSS, ITCSS, BEM
 **Data & APIs:**
-    • GraphQL, Apollo Client/Server, REST APIs
-    • Node.js, Express
+- GraphQL, Apollo Client/Server, REST APIs
+- Node.js, Express
 **Herramientas:**
-    • Git, Gitlab, Github, Webpack
-    • Docker
+- Git, Gitlab, Github, Webpack
+- Docker
 
 ## Certificaciones
 - [Arquitectura Frontend](https://platzi.com/p/edsonv/ruta/7-arquitecto-frontend-old/diploma/detalle/)
