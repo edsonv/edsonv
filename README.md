@@ -42,4 +42,6 @@ Estatus laboral: ***Búscando activamente***
 - [Otros...](https://www.linkedin.com/in/edsonjhairvargas/details/certifications/)
 
 ## Últimos proyectos
+- [FrontendMentor Challenge: Galleria Slideshow Site](https://frontend-mentor-io-galleria-slidesh.vercel.app)
+- [FrontEndMentor Challenge: Space Tourism Website](https://frontend-mentor-io-space-tourism-we.vercel.app)
 - [Next.js 16 Fullstack Tutorial](https://youtube-nextjs-16-fullstack-tutoria.vercel.app)
